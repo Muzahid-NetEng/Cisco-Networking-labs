@@ -1,4 +1,4 @@
-# 🚀 Cisco Networking & CCNA Hands-on Portfolio
+#  Cisco Networking & CCNA Hands-on Portfolio
 Welcome to my networking lab repository! This contains practical implementations of enterprise network solutions using Cisco Packet Tracer.
 
 ## 🛠️ Practical Labs Overview:
